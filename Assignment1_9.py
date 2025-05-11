@@ -1,3 +1,4 @@
+# Program to display first 10 even number and display length of its name
 def main():
 
     i=1
