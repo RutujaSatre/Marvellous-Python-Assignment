@@ -1,4 +1,4 @@
-
+# program to check wheather number is positive , negative or zero
 def main():
     print("Enter Number: ")
     no=int(input())
