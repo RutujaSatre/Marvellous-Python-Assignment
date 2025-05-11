@@ -1,3 +1,4 @@
+#program to diplay "Hello from Fun"
 def Fun():
     print("Hello from Fun")
 
