@@ -1,3 +1,4 @@
+#program to check wheather number is even or odd
 def ChkNum():
     print("Enter Number: ")
     value=int(input())
