@@ -1,3 +1,4 @@
+#Program which accept number from user and print that number of "*" on screen
 def StarPattern():
     print("Enter Number:")
     num=int(input())
